@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "87c8ab6489d3635b142b",
+    "revision": "99d07f727e53fdd5255f",
     "url": "/f-cars/static/css/main.7ec12b0e.chunk.css"
   },
   {
-    "revision": "87c8ab6489d3635b142b",
-    "url": "/f-cars/static/js/main.d34d71f8.chunk.js"
+    "revision": "99d07f727e53fdd5255f",
+    "url": "/f-cars/static/js/main.52997d9a.chunk.js"
   },
   {
     "revision": "9ae1fe5e432a792a7149",
@@ -300,7 +300,7 @@ self.__precacheManifest = [
     "url": "/f-cars/static/media/toyota2.465633bd.png"
   },
   {
-    "revision": "39f2e8d42a569630c7aa94efc49916c2",
+    "revision": "aff810dc228df807a2eb8acad3dbc952",
     "url": "/f-cars/index.html"
   }
 ];

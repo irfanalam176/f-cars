@@ -1,7 +1,7 @@
 {
   "main.css": "/f-cars/static/css/main.7ec12b0e.chunk.css",
-  "main.js": "/f-cars/static/js/main.d34d71f8.chunk.js",
-  "main.js.map": "/f-cars/static/js/main.d34d71f8.chunk.js.map",
+  "main.js": "/f-cars/static/js/main.52997d9a.chunk.js",
+  "main.js.map": "/f-cars/static/js/main.52997d9a.chunk.js.map",
   "runtime~main.js": "/f-cars/static/js/runtime~main.25a20e97.js",
   "runtime~main.js.map": "/f-cars/static/js/runtime~main.25a20e97.js.map",
   "static/js/2.da69726e.chunk.js": "/f-cars/static/js/2.da69726e.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.80abd554.chunk.js": "/f-cars/static/js/3.80abd554.chunk.js",
   "static/js/3.80abd554.chunk.js.map": "/f-cars/static/js/3.80abd554.chunk.js.map",
   "index.html": "/f-cars/index.html",
-  "precache-manifest.73a5fb9633a49a12f7745f717e214139.js": "/f-cars/precache-manifest.73a5fb9633a49a12f7745f717e214139.js",
+  "precache-manifest.4a6d042a6ac795f421723a950453c1c9.js": "/f-cars/precache-manifest.4a6d042a6ac795f421723a950453c1c9.js",
   "service-worker.js": "/f-cars/service-worker.js",
   "static/css/main.7ec12b0e.chunk.css.map": "/f-cars/static/css/main.7ec12b0e.chunk.css.map",
   "static/media/bill.jpg": "/f-cars/static/media/bill.5d5e6275.jpg",
